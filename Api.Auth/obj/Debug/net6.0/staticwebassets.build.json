@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AS3uDFRDFn+VIPJkP3iR5sYsjyhkT/jQ5ICZuCPhFdw=",
+  "Source": "Api.Auth",
+  "BasePath": "_content/Api.Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
